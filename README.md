@@ -1,4 +1,9 @@
 ## Hi there 👋
+<h3> ~ Who am I ? </h3> <b>Amarzish </b>
+
+
+<h3> ~ Background ? </h3> <b>Software Engineer </b>
+
 
 <!--
 **AmarzishQadeer/AmarzishQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
