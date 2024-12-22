@@ -4,6 +4,10 @@
 
 <h3> ~ Background ? </h3> <b>Software Engineer </b>
 
+<h3>Certifications</h3>
+<a href="https://learn.microsoft.com/en-us/users/amarzishqadeer-1946/credentials/b774234d3f063ea5?ref=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famarzish-qadeer%2F">Microsoft Azure</a>
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 <!--
 **AmarzishQadeer/AmarzishQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
