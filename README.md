@@ -9,6 +9,9 @@
 
 <b> My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Security Anlyst or Security Engineer. </b> 
 
+
+Linux Wizard
+
 ## <h3> 🖥 Projects</h3>
 
 ## <h3> Skills </h3> 
