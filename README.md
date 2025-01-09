@@ -64,6 +64,8 @@ Linux Wizard
 
 <a href="">Google Cybersecurity Professional Certificate </a>
 
+<a href="https://www.credly.com/badges/8800adc0-118c-483a-b552-4bf2aa4c1e95/public_url">ISC2 Candidate</a>
+
 <a href="">ISC2 Cybersecurity</a>
 
 ## <h3> Memberships</h3>
