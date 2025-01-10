@@ -66,7 +66,7 @@ Linux Wizard
 
 <a href="https://www.credly.com/badges/8800adc0-118c-483a-b552-4bf2aa4c1e95/public_url">ISC2 Candidate</a>
 
-<a href="">ISC2 Cybersecurity</a>
+<a href="https://github.com/AmarzishQadeer/AmarzishQadeer/blob/main/ISC2%20CC%20certificate.pdf">ISC2 Certified in Cybersecurity</a>
 
 ## <h3> Memberships</h3>
 
