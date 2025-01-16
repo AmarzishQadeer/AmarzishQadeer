@@ -7,7 +7,7 @@
 
 ## <h3> ~ Objective </h3>
 
-<b> My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Security Anlyst or Security Engineer. </b> 
+<b> My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Security Analyst or Security Engineer. </b> 
 
 
 Linux Wizard
