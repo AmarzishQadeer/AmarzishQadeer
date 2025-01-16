@@ -55,14 +55,11 @@ Linux Wizard
 
 ## <h3>📃 Certifications</h3>
 
-<a href="https://learn.microsoft.com/en-us/users/amarzishqadeer-1946/credentials/b774234d3f063ea5?ref=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famarzish-qadeer%2F">Microsoft Azure</a>
-
-
-
+<a href="https://learn.microsoft.com/en-us/users/amarzishqadeer-1946/credentials/b774234d3f063ea5?ref=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famarzish-qadeer%2F">Microsoft Certified: Azure Fundamentals AZ-900</a>
 
 <a href="https://coursera.org/share/4ee67cda0da733833dad4d10f2a61e42">Google Cybersecurity Specialization Professional Certificate </a>
 
-<a href="[https://www.life-global.org/certificate/e24e3ee0-a7c3-4b8d-84ee-fa2da8f0f59d](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
+<a href="https://coursera.org/share/4ee67cda0da733833dad4d10f2a61e42">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
 
 <a href="https://github.com/AmarzishQadeer/AmarzishQadeer/blob/main/ISC2%20CC%20certificate.pdf">ISC2 Certified in Cybersecurity</a>
 
@@ -71,6 +68,8 @@ Linux Wizard
 <a href="https://www.coursera.org/account/accomplishments/verify/CVBQAF4LU6LH">Palo Alto Networks Academy Cybersecurity</a>
 
 <a href="https://www.life-global.org/certificate/e24e3ee0-a7c3-4b8d-84ee-fa2da8f0f59d">HP Life Intro to Cybersecurity Awareness</a>
+
+<a href="https://www.sololearn.com/Certificate/CT-NNTE9RML/pdf">SQL Fundamentals</a>
 
 
 
