@@ -1,57 +1,53 @@
 ## Hi there 👋
-<h3> ~ Who am I ? </h3> <b>Amarzish </b>
+<h3> ☘︎  Who am I ? </h3> <b>Amarzish, an aspiring security enthusiast </b>
 
-## <h3> ~ Background ? </h3> <b>Software Engineer with a profound interest in technology and a dedication to solving complex problems </b>
+## <h3> 💬  Background ? </h3> 
 
-<b>I enjoy working with technology and analyzing and solving complex problems.</b>
+<b>Software Engineer with a profound interest & passion for technology and a strong commitment to identifying and mitigating complex problems and security challenges. Dedicated to protecting systems and data through problem-solving and effective analysis. </b>
 
-## <h3> ~ Objective </h3>
+<b>I enjoy working with technology, analyzing and solving complex problems.</b>
 
-<b> My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Security Analyst or Security Engineer. </b> 
+## <h3> 🧮  Objective </h3>
+
+<b> My journey has led me to develop a passion for cybersecurity, and I am now excited transition & to dive into the field, aiming to make an impact as a Security Analyst or Security Engineer. </b> 
 
 
 Linux Wizard
 
-## <h3> 🖥 Projects</h3>
+## <h3> 🖥  Projects</h3>
 
-## <h3> Skills </h3> 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<li> Investigating Brute Force Attack - SPLUNK </li>
+<li> Input Validation using RegEx </li>
+<li> Secure System Development Lifecycle (SDLC) </li>
+<li> Analyzed Network Attack using Wireshark. </li>
+<li> Network Analysis using tcpdump. </li>
+<li>Applied OS Hardening Techniques. </li>
+<li> Analysis of Network Hardening.  </li>
+<li> Utilized NIST CSF to Respond to a Security Incident. </li>
+<li> Utilized Linux Commands to Manage File Permissions. </li>
+<li> Applied Filter to SQL Queries. </li>
+<li> Classified Assets Connected to a Home Network. </li>
+<li> Automated cybersecurity tasks using python. </li>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🔍 Tools
+<b> splunk , wireshark, linux, Windows, MS Visual, 
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
 
 ## <h3>📃 Certifications</h3>
 
@@ -72,26 +68,16 @@ Linux Wizard
 <a href="https://www.sololearn.com/Certificate/CT-NNTE9RML/pdf">SQL Fundamentals</a>
 
 
-
-
 ## <h3> Memberships</h3>
 
-<b> Member IEEE </b>  
-
-Did you know ... IEEE 802.11 commonly known as WiFi ... is a set of standards that define communication for wireless LANs. 
+Member IEEE
+#
+⚡ Did you know ... IEEE 802.11 commonly known as WiFi ... is a set of standards that define communication for wireless LANs
 
 #
 
 
 Let the Hunting Begins... 
-
-
-
-
-
-
-
-
 
 
 
@@ -108,4 +94,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+⏳ 📚 🔖 📌 🔗 📝 🔍 🧮 ☃︎ ☄︎ ☘︎ ⚛︎ ✿ ✦ 💡
 -->
