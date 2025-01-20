@@ -1,3 +1,5 @@
+<html> 
+
 ## Hi there 👋
 <h3> ☘︎  Who am I ? </h3> <b>Amarzish, an aspiring security enthusiast </b>
 
@@ -79,6 +81,7 @@ Grab a coffee & croissant with me ☕️ 🥐 🍪  -->  amarzish.qadeer@gmail.c
 
 Let the Hunting Begins... 
 
+</html>
 
 
 <!--
