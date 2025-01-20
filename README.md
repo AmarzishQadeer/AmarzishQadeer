@@ -11,9 +11,6 @@
 
 <b> My journey has led me to develop a passion for cybersecurity, and I am now excited transition & to dive into the field, aiming to make an impact as a Security Analyst or Security Engineer. </b> 
 
-
-Linux Wizard
-
 ## <h3> 🖥  Projects</h3>
 
 <li> Investigating Brute Force Attack - SPLUNK </li>
@@ -70,12 +67,15 @@ Linux Wizard
 
 ## <h3> Memberships</h3>
 
-Member IEEE
+<li> Member IEEE </li>
+
 #
 ⚡ Did you know ... IEEE 802.11 commonly known as WiFi ... is a set of standards that define communication for wireless LANs
 
 #
+Grab a coffee & croissant with me ☕️ 🥐 🍪  -->  amarzish.qadeer@gmail.com 
 
+#
 
 Let the Hunting Begins... 
 
@@ -84,6 +84,7 @@ Let the Hunting Begins...
 <!--
 **AmarzishQadeer/AmarzishQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Linux Wizard
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
