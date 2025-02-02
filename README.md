@@ -75,7 +75,11 @@
 ⚡ Did you know ... IEEE 802.11 commonly known as WiFi ... is a set of standards that define communication for wireless LANs
 
 #
-Grab a coffee & croissant with me ☕️ 🥐 🍪  -->  amarzish.qadeer@gmail.com 
+Feel free to explore my repositories, review the code, and provide feedback! 
+
+I’m constantly expanding my skills and eager to collaborate with like-minded professionals on cybersecurity solutions.
+#
+Grab a coffee & croissant with me ☕️ 🥐  -->  amarzish.qadeer@gmail.com 
 
 #
 
