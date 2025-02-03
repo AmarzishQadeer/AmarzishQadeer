@@ -50,6 +50,8 @@
 
 ## <h3>📃 Certifications</h3>
 
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_pgpie7M4TaSYGMHxS_1738566314879_completion_certificate.pdf">Mastercard Cybersecurity Job Simulation</a>
+
 <a href="https://learn.microsoft.com/en-us/users/amarzishqadeer-1946/credentials/b774234d3f063ea5?ref=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famarzish-qadeer%2F">Microsoft Certified: Azure Fundamentals AZ-900</a>
 
 <a href="https://coursera.org/share/4ee67cda0da733833dad4d10f2a61e42">Google Cybersecurity Specialization Professional Certificate </a>
