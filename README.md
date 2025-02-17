@@ -94,6 +94,7 @@ Let the Hunting Begins...
 **AmarzishQadeer/AmarzishQadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Linux Wizard
+Explorers of digital cosmos
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
