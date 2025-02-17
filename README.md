@@ -11,7 +11,7 @@
 
 ## <h3> 🧮  Objective </h3>
 
-<b> My journey has led me to develop a passion for cybersecurity, and I am now excited transition & to dive into the field, aiming to make an impact as a Security Analyst or Security Engineer. </b> 
+<b> My journey has led me to develop a passion for cybersecurity, and I am now excited to transition & dive into the field, aiming to make an impact as a Security Analyst or Security Engineer. </b> 
 
 ## <h3> 🖥  Projects</h3>
 
